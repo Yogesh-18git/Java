@@ -11,6 +11,7 @@ public class count {
         Scanner in =new Scanner(System.in);
         long n=in.nextLong();
         int c=0;
+        System.out.println("Enter the no");
         while(n>0)
         {
             n=n/10;
